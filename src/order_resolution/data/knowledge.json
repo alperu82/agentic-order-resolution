@@ -1,0 +1,5 @@
+[
+  {"id": "delivery-v1", "topics": ["tracking", "late", "delivery"], "text": "For an in-transit shipment, send a tracking update. Never promise a delivery date."},
+  {"id": "loss-v1", "topics": ["lost", "refund", "missing"], "text": "A carrier-confirmed lost shipment may be refunded for the full order total, only after human approval."},
+  {"id": "delivered-v1", "topics": ["delivered", "dispute"], "text": "A delivered shipment dispute requires manual investigation. Do not automatically refund."}
+]

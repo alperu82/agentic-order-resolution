@@ -1,0 +1,3 @@
+# Reproduce the locally tested environment, including test/lint tools.
+-r requirements.lock
+-e .[dev]

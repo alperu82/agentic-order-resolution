@@ -1,0 +1,5 @@
+{
+  "ORD-1001": {"total_cents": 2400, "status": "shipped", "shipping": "in_transit", "late_days": 2},
+  "ORD-1002": {"total_cents": 8900, "status": "shipped", "shipping": "lost", "late_days": 12},
+  "ORD-1003": {"total_cents": 3500, "status": "shipped", "shipping": "delivered", "late_days": 0}
+}
